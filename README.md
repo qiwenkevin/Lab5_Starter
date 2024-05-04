@@ -3,6 +3,9 @@
 Name: Kevin Tang
 Lab Partners: Hongan Yu
 
+[Expose Page](https://qiwenkevin.github.io/Lab5_Starter/expose.html)
+[Explore Page](https://qiwenkevin.github.io/Lab5_Starter/explore.html)
+
 ## Unit Testing
 
 1) You would not, because this feature requires many parts of the application to work together, which is not what unit tests are for.

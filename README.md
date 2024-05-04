@@ -1,7 +1,8 @@
 # Lab 5 - Starter
 
 Name: Kevin Tang
-Lab Partners: Hongan Yu
+
+Lab Partner: Hongan Yu
 
 [Expose Page](https://qiwenkevin.github.io/Lab5_Starter/expose.html)
 
